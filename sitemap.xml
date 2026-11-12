@@ -1,7 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xiolaet.com/</loc></url>
-  <url><loc>https://xiolaet.com/about/</loc></url>
-  <url><loc>https://xiolaet.com/releases/</loc></url>
-  <url><loc>https://xiolaet.com/releases/lireva/</loc></url>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://xiolaet.com/</loc>
+    <image:image>
+      <image:loc>https://xiolaet.com/assets/images/hero.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://xiolaet.com/assets/images/lireva.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://xiolaet.com/releases/</loc>
+    <image:image>
+      <image:loc>https://xiolaet.com/assets/images/lireva.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://xiolaet.com/about/</loc>
+    <image:image>
+      <image:loc>https://xiolaet.com/assets/images/xiolaet-768.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://xiolaet.com/releases/lireva/</loc>
+    <image:image>
+      <image:loc>https://xiolaet.com/assets/images/lireva.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
