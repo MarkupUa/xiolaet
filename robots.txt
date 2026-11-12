@@ -1,4 +1,4 @@
-# Local pre-launch site. Keep private; robots directives are not access control.
 User-agent: *
-Disallow: /
-# Add the verified absolute sitemap URL at production launch.
+Allow: /
+
+Sitemap: https://xiolaet.com/sitemap.xml

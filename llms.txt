@@ -29,4 +29,4 @@ Molotko Media Group.
 
 ## Status
 
-This is a local pre-launch website. The production domain is not yet confirmed. The HTML pages are the primary source; this optional summary does not replace them or authorize crawling, publication or reuse.
+Official website: https://xiolaet.com. The HTML pages are the primary source; this optional summary does not replace them or authorize crawling, publication or reuse.
