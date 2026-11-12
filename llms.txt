@@ -1,0 +1,32 @@
+# Xiolaet
+
+> Xiolaet (pronounced Ksee-oh-LAH-et) is an alien pop artist with an original melodic language.
+
+Her music spans electropop, dance-pop and idol-pop. This is her official music website. For now, she has chosen to let the songs speak first.
+
+## Website
+
+- [Home](/): Artist introduction and featured music.
+- [About Xiolaet](/about/): Musical identity, pronunciation, voice and language.
+- [Releases](/releases/): The current track catalog.
+- [LIREVA by Xiolaet](/releases/lireva/): Official artwork, track notes, release date and Spotify pre-save.
+
+## LIREVA
+
+LIREVA is presented as Xiolaet’s first signal: a voice reaching across the unknown. The official track description asks, “What if this song was meant to find you?” Its title is from her original melodic language. The working meaning relates to answering or responding; this is not a final lyric translation. LIREVA is scheduled for release on 13 November 2026. The official cover is supplied by DistroKid. [Pre-save on Spotify via DistroKid](https://distrokid.com/hyperfollow/xiolaet/lireva). No additional releases are listed.
+
+## Record label
+
+Molotko Media Group.
+
+## Official profiles
+
+- [YouTube](https://www.youtube.com/@xiolaet)
+- [TikTok](https://www.tiktok.com/@xiolaet_music)
+- [Instagram](https://www.instagram.com/xiolaet.music/)
+- [Pinterest](https://www.pinterest.com/xiolaet/)
+- [X](https://x.com/xiolaet)
+
+## Status
+
+This is a local pre-launch website. The production domain is not yet confirmed. The HTML pages are the primary source; this optional summary does not replace them or authorize crawling, publication or reuse.

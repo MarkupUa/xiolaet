@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xiolaet.com/</loc></url>
-</urlset>
+<!-- PRE-LAUNCH TEMPLATE: deliberately no invented domain or URLs.
+Before launch, populate url/loc entries for /, /about/, /releases/ and
+every approved /releases/slug/ route using the confirmed HTTPS origin.
+This site uses origin-root hosting and trailing-slash directory URLs.
+This empty template is not a production sitemap and must not be submitted. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>
