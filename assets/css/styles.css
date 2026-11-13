@@ -66,3 +66,5 @@
 
 /* Official release art preserves the supplied square cover without cropping. */
 .release-artwork{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:contain;border-radius:var(--radius)}
+
+.streaming-links{display:grid;gap:12px;margin-top:32px}.streaming-links a{display:flex;align-items:center;gap:18px;min-height:72px;padding:18px 22px;border:1px solid var(--line);border-radius:var(--radius);background:rgba(242,230,242,.28);transition:background .2s,border-color .2s}.streaming-links a:hover{background:var(--blush);border-color:var(--lilac)}.streaming-links img{flex:0 0 28px}.streaming-arrow{margin-left:auto}.streaming-links a span:not(.streaming-arrow){font-size:16px}@media(max-width:375px){.streaming-links a{padding:16px;gap:12px}}
