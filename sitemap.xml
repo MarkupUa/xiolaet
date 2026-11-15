@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://xiolaet.com/</loc>
     <image:image>
@@ -26,5 +26,13 @@
     <image:image>
       <image:loc>https://xiolaet.com/assets/images/lireva.jpg</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hcTsS8njGK8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Xiolaet – Lireva (Official Music Visualizer)</video:title>
+      <video:description>Watch the official LIREVA music visualizer by Xiolaet. An unfamiliar voice, an original melodic language, and her first signal.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/hcTsS8njGK8</video:player_loc>
+      <video:duration>194</video:duration>
+      <video:publication_date>2026-11-13T08:00:01-08:00</video:publication_date>
+    </video:video>
   </url>
 </urlset>

@@ -34,3 +34,7 @@ Molotko Media Group.
 ## Status
 
 Official website: https://xiolaet.com. The HTML pages are the primary source; this optional summary does not replace them or authorize crawling, publication or reuse.
+
+## LIREVA video
+
+[Official music visualizer](https://www.youtube.com/watch?v=hcTsS8njGK8), published 13 November 2026, duration 3:14. Watch on the [LIREVA release page](/releases/lireva/#lireva-video).
