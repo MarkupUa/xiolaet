@@ -9,11 +9,11 @@ Her music spans electropop, dance-pop and idol-pop. This is her official music w
 - [Home](/): Artist introduction and featured music.
 - [About Xiolaet](/about/): Musical identity, pronunciation, voice and language.
 - [Releases](/releases/): The current track catalog.
-- [LIREVA by Xiolaet](/releases/lireva/): Official artwork, track notes, release date and listening links.
+- [Lireva by Xiolaet](/releases/lireva/): Official artwork, track notes, release date and listening links.
 
-## LIREVA
+## Lireva
 
-LIREVA is presented as Xiolaet’s first signal: a voice reaching across the unknown. The official track description asks, “What if this song was meant to find you?” Its title is from her original melodic language. The working meaning relates to answering or responding; this is not a final lyric translation. LIREVA was released on 13 November 2026. The official cover is supplied by DistroKid. Listen: [Amazon Music](https://www.amazon.com/gp/product/B0HPPDMSDJ), [Spotify](https://open.spotify.com/track/1IL6bCJ4yeOSnDIirAQeHQ), [YouTube Music](https://music.youtube.com/watch?v=0c-C7kDxue0), [Apple Music](https://music.apple.com/us/album/lireva-single/6828435850). No additional releases are listed.
+Lireva is presented as Xiolaet’s first signal: a voice reaching across the unknown. The official track description asks, “What if this song was meant to find you?” Its title is from her original melodic language. The working meaning relates to answering or responding; this is not a final lyric translation. Lireva was released on 13 November 2026. The official cover is supplied by DistroKid. Listen: [Amazon Music](https://www.amazon.com/gp/product/B0HPPDMSDJ), [Spotify](https://open.spotify.com/track/1IL6bCJ4yeOSnDIirAQeHQ), [YouTube Music](https://music.youtube.com/watch?v=0c-C7kDxue0), [Apple Music](https://music.apple.com/us/album/lireva-single/6828435850). No additional releases are listed.
 
 ## Record label
 
@@ -35,6 +35,8 @@ Molotko Media Group.
 
 Official website: https://xiolaet.com. The HTML pages are the primary source; this optional summary does not replace them or authorize crawling, publication or reuse.
 
-## LIREVA video
+## Lireva video
 
-[Official music visualizer](https://www.youtube.com/watch?v=hcTsS8njGK8), published 13 November 2026, duration 3:14. Watch on the [LIREVA release page](/releases/lireva/#lireva-video).
+[Official music visualizer](https://www.youtube.com/watch?v=hcTsS8njGK8), published 13 November 2026, duration 3:14. Watch on the [Lireva release page](/releases/lireva/#lireva-video).
+
+Lireva is Xiolaet’s debut single, released November 13, 2026 by Molotko Media Group. Xiolaet’s music combines alien pop, electropop, dance-pop and K-pop-inspired idol-pop with an original melodic language whose name is not public.
